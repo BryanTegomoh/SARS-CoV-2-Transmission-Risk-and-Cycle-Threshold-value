@@ -1,2 +1,3 @@
 # SARS-CoV-2-Transmission-Risk-and-Cycle-Threshold-value
 SARS-CoV-2 Transmission Risk and Cycle Threshold value
+SARS-CoV-2 RT-PCR Cycle Threshold (Ct) value has been used as a proxy for viral load, here we explore the association between a primary case’s Ct value and transmission risk based on the outcome of epidemiologic case investigation and contact tracing efforts. To evaluate transmission risk, we compared secondary attack rate (SAR) for categories of Ct values. SAR was calculated as the proportion of each primary case’s listed contacts (obtained from case investigation and contact tracing) who tested positive within 14 days. 
